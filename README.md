@@ -72,7 +72,7 @@ Ocrad.js 有支援直接在canvas上做OCR, 換句話說就是, 不需要存成�
 ## 4. Conclusion
 
 以上就是簡單的範例, 希望可以幫到需要的人, 也順便做個筆記
-若有覺得要修改的地方, 請不要客氣儘管送出push request喔, 畢竟我寫的方式可能不太正確.
+若有覺得要修改的地方, 請不要客氣儘管提出喔, 畢竟我寫的方式可能不太正確.
 (或是英文看不下去要幫我修改也可以XD)
 
 
@@ -136,6 +136,6 @@ Run the project on your web server and click submit button which will call the O
 
 ## 4. Conclusion
 
-If there are some errors, please feel free to send me push request
+If there are some errors, please feel free to send me advice
 THX
 
